@@ -1,6 +1,6 @@
 {
 	"name": "@aws-amplify/datastore",
-	"version": "5.1.5",
+	"version": "5.1.6",
 	"description": "AppSyncLocal support for aws-amplify",
 	"main": "./dist/cjs/index.js",
 	"module": "./dist/esm/index.mjs",
@@ -44,8 +44,8 @@
 		"src"
 	],
 	"dependencies": {
-		"@aws-amplify/api": "6.3.24",
-		"@aws-amplify/api-graphql": "4.8.5",
+		"@aws-amplify/api": "6.3.25",
+		"@aws-amplify/api-graphql": "4.8.6",
 		"buffer": "4.9.2",
 		"idb": "5.0.6",
 		"immer": "9.0.6",

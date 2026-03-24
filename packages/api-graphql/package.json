@@ -1,6 +1,6 @@
 {
 	"name": "@aws-amplify/api-graphql",
-	"version": "4.8.5",
+	"version": "4.8.6",
 	"description": "Api-graphql category of aws-amplify",
 	"main": "./dist/cjs/index.js",
 	"module": "./dist/esm/index.mjs",
