@@ -1,5 +1,11 @@
 # Change Log
 
+## 4.8.6
+
+### Patch Changes
+
+- [#14569](https://github.com/aws-amplify/amplify-js/pull/14569) [`03301e8`](https://github.com/aws-amplify/amplify-js/commit/03301e80a0ba5f1728db6ccd404d1e33ebe44485) Thanks [@anivar](https://github.com/anivar)! - fix(api-graphql): trigger WebSocket reconnection on auth errors to restore subscriptions after token expiration
+
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
